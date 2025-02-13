@@ -50,7 +50,7 @@
 
 ## :hammer_and_wrench: 기술 스택
 - ### **Frontend**
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,npm" />
 
 
 - ### **Backend**
