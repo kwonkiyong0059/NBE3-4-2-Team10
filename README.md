@@ -58,7 +58,9 @@
 
 
 - ### **Database**
-<img src="https://skillicons.dev/icons?i=redis, h2" />
+<img src="https://velog.velcdn.com/images/pak4184/post/49d37a62-b4f3-4432-8326-7d2c3059543d/image.svg" width="40"> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=redis">
+
+
 
 
 ### **DevOps**
